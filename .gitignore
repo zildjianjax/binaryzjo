@@ -28,7 +28,8 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -67,5 +68,8 @@ wp-content/plugins/hello.php
 /readme.html
 /sitemap.xml
 /sitemap.xml.gz
+
+
+img/
 
 
